@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Project 1: Portfolio",
+        "live": "https://nitsirkmac.github.io/Portfolio/",
+        "git": "https://github.com/nitsirkmac/Portfolio",
+        "image": "picture-of-project"
+    },
+    {
+        "name": "Project 2: Fairytale Planning Website",
+        "live": "fairytaleplanning.netlify.app",
+        "git": "https://github.com/nitsirkmac/Website-project2",
+        "image": "picture-of-project"
+    }
+
+]
